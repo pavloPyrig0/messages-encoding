@@ -7,7 +7,7 @@ The code provided includes a TypeScript implementation of the binary message enc
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/pavloPyrig0/messages-encoding.git
    ```
 2. Install dependencies:
 
